@@ -20,7 +20,7 @@ To run the automation program, follow these steps:
 
 To get started with the project, you will need to have the following prerequisites:
 
-- Prezão Free application installed
+- Prezão Free Android application installed
 - WSA tool installed
 - Jupyter Notebook installed
 - or VS code with Jupyter Notebook extension installed
@@ -30,4 +30,4 @@ To get started with the project, you will need to have the following prerequisit
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your/repository.git
+git clone https://github.com/joaosnet/bot-preezao.git
